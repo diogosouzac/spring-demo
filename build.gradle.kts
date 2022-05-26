@@ -27,7 +27,7 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("net.logstash.logback:logstash-logback-encoder:7.1")
-	implementation("com.twilio.sdk:twilio:8.23.0")
+	implementation("com.twilio.sdk:twilio:8.30.1")
 	implementation(kotlin("reflect"))
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.amqp:spring-rabbit-test")
