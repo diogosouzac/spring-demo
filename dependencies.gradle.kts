@@ -4,7 +4,7 @@ dependencyResolutionManagement {
             version("guava", "23.0")
             version("kotlin", "1.6.20")
             version("springBoot", "2.6.6")
-            version("taskTree", "1.3.1")
+            version("taskTree", "1.5")
             version("pact", "4.0.10")
             version("openapi", "5.4.0")
             version("asciidoctor", "3.3.2")
