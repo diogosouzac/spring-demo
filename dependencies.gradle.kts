@@ -8,7 +8,7 @@ dependencyResolutionManagement {
             version("pact", "4.0.10")
             version("openapi", "5.4.0")
             version("asciidoctor", "3.3.2")
-            version("moduleDependencyGraph", "0.9")
+            version("moduleDependencyGraph", "0.10")
 
             // We cannot upgrade to 8.0.28 until we are ready to switch to TLS v1.2 (by upgrading Aurora MySQL to 1.23.1+)
             version("mysqlConnector", "8.0.27")
