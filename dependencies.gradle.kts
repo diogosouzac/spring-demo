@@ -71,7 +71,7 @@ dependencyResolutionManagement {
             library("sentryLogback", "io.sentry", "sentry-logback").version("5.7.2")
             library("testcontainers", "org.testcontainers", "testcontainers").version("1.16.2")
             library("twilio", "com.twilio.sdk", "twilio").version("8.23.0")
-            library("vavr", "io.vavr", "vavr").version("0.10.2")
+            library("vavr", "io.vavr", "vavr").version("0.10.4")
             library("wiremock", "com.github.tomakehurst", "wiremock").version("2.27.2")
             library("ztZip", "org.zeroturnaround", "zt-zip").version("1.14")
             library("zxing", "com.google.zxing", "javase").version("3.4.1")
