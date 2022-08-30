@@ -47,7 +47,7 @@ dependencyResolutionManagement {
             library("commonsText", "org.apache.commons", "commons-text").version("1.9")
             library("commonsValidator", "commons-validator", "commons-validator").version("1.7")
             library("datasourceProxy", "net.ttddyy", "datasource-proxy").version("1.7")
-            library("dbUnit", "org.dbunit", "dbunit").version("2.7.2")
+            library("dbUnit", "org.dbunit", "dbunit").version("2.7.3")
             library("googleApiClient", "com.google.api-client", "google-api-client").version("1.32.2")
             library("guava", "com.google.guava", "guava").versionRef("guava")
             library("hsJavaDateTimeFormatter", "net.helpscout", "hs-java-datetime-formatter").version("1.0.5")
