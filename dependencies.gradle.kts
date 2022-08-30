@@ -3,7 +3,7 @@ dependencyResolutionManagement {
         create("libs") {
             version("guava", "23.0")
             version("kotlin", "1.6.20")
-            version("springBoot", "2.6.6")
+            version("springBoot", "2.7.3")
             version("taskTree", "1.3.1")
             version("pact", "4.0.10")
             version("openapi", "5.4.0")
