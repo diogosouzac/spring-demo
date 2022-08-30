@@ -2,7 +2,7 @@ dependencyResolutionManagement {
     versionCatalogs {
         create("libs") {
             version("guava", "31.1-jre")
-            version("kotlin", "1.6.20")
+            version("kotlin", "1.7.10")
             version("springBoot", "2.7.3")
             version("taskTree", "1.3.1")
             version("pact", "4.0.10")
