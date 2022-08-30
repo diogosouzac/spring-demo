@@ -57,7 +57,7 @@ dependencyResolutionManagement {
             library("javaJwt", "com.auth0", "java-jwt").version("3.18.2")
             library("jsoup", "org.jsoup", "jsoup").version("1.14.3")
             library("kotlinCoroutines", "org.jetbrains.kotlinx", "kotlinx-coroutines-core").withoutVersion()
-            library("libphonenumber", "com.googlecode.libphonenumber", "libphonenumber").version("8.12.5")
+            library("libphonenumber", "com.googlecode.libphonenumber", "libphonenumber").version("8.12.54")
             library("logstashLogbackEncoder", "net.logstash.logback", "logstash-logback-encoder").version("7.1")
             library("lombok", "org.projectlombok", "lombok").version("1.18.20")
             library("metadataExtractor", "com.drewnoakes", "metadata-extractor").version("2.16.0")
