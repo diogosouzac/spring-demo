@@ -68,7 +68,7 @@ dependencyResolutionManagement {
             library("ravenLogback", "net.kencochrane.raven", "raven-logback").version("6.0.0")
             library("restAssuredKotlinExtensions", "io.rest-assured", "kotlin-extensions").version("4.3.3")
             library("s3", "com.amazonaws", "aws-java-sdk-s3").version("1.12.35")
-            library("sentryLogback", "io.sentry", "sentry-logback").version("5.7.2")
+            library("sentryLogback", "io.sentry", "sentry-logback").version("5.7.4")
             library("testcontainers", "org.testcontainers", "testcontainers").version("1.16.2")
             library("twilio", "com.twilio.sdk", "twilio").version("8.23.0")
             library("vavr", "io.vavr", "vavr").version("0.10.4")
